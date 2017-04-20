@@ -1,3 +1,3 @@
 net.eventbus/.vs
-**/Debug
-**/Release
+**/bin
+**/obj
